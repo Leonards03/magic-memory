@@ -1,5 +1,5 @@
 # Magic Memory 
-A matching card memory game, built in as a part of [Build Web Apps with React & Firebase](https://www.udemy.com/course/build-web-apps-with-react-firebase/)
+A matching card memory game, part of [Build Web Apps with React & Firebase](https://www.udemy.com/course/build-web-apps-with-react-firebase/)
 
 ## Available Scripts
 
