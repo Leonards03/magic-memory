@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Magic Memory 
+A matching card memory game, built in as a part of [Build Web Apps with React & Firebase](https://www.udemy.com/course/build-web-apps-with-react-firebase/)
 
 ## Available Scripts
 
